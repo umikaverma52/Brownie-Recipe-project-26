@@ -1,0 +1,25 @@
+Directions
+Step 1
+Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan.
+
+Step 2
+Combine the melted butter, sugar, cocoa powder, vanilla, eggs, flour, baking powder, and salt. Spread the batter into the prepared pan. Decorate with walnut halves, if desired.
+
+Step 3
+Bake in preheated oven for 20 to 30 minutes or until a toothpick inserted in the center comes out with crumbs, not wet. Cool on wire rack.
+
+
+
+pc@DESKTOP-2PIDC8R MINGW64 ~
+$ mkdir MyRecipes
+
+pc@DESKTOP-2PIDC8R MINGW64 ~
+$ cd MyRecipes
+
+pc@DESKTOP-2PIDC8R MINGW64 ~/MyRecipes
+$ git clone https://github.com/umikaverma52/Brownies-recipes.git
+Cloning into 'Brownies-recipes'...
+warning: You appear to have cloned an empty repository.
+
+pc@DESKTOP-2PIDC8R MINGW64 ~/MyRecipes
+$ ^C
